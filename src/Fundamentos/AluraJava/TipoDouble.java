@@ -1,4 +1,4 @@
-package Fundamentos;
+package Fundamentos.AluraJava;
 
 public class TipoDouble {
     public static void main(String[] args) {

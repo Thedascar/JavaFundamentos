@@ -1,4 +1,4 @@
-package Fundamentos.Exercicios;
+package Fundamentos.AluraJava.Exercicios;
 
 /*
 O João gostaria de criar um programa sobre Imposto de Renda (IR) e verificou as regras de alíquota. Ele descobriu no site da receita:

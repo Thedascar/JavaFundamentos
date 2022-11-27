@@ -1,4 +1,4 @@
-package Fundamentos;
+package Fundamentos.AluraJava;
 
 public class LacosEncadeados {
     public static void main(String[] args) {
