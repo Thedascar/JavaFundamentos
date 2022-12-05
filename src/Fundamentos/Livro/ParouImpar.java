@@ -10,9 +10,13 @@ public class ParouImpar {
         valor = teclado.nextInt();
 
         if(valor % 2 == 0){
-            System.out.print("O valor " + valor + " é par. ");
+            if (valor > 0) {
+                System.out.print("O valor " + valor + " é par.");
+            } else {
+                System.out.println("número ínvalido");
+            }
         }else{
-            System.out.print("O valor " + valor + " é ímpar. ");
+            System.out.print("O valor " + valor + " é ímpar.");
         }
 
     }
