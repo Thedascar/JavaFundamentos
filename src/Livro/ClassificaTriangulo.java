@@ -1,4 +1,4 @@
-package Fundamentos.AluraJava.Livro;
+package Livro;
 
 import javax.swing.*;
 

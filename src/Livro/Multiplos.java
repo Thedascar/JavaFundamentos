@@ -1,4 +1,4 @@
-package Fundamentos.AluraJava.Livro;
+package Livro;
 
 public class Multiplos {
     public static void main(String[] args) {
