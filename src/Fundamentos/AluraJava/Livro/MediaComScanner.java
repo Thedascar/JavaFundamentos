@@ -1,4 +1,4 @@
-package Fundamentos.Livro;
+package Fundamentos.AluraJava.Livro;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Fundamentos.Livro;
+package Fundamentos.AluraJava.Livro;
 
 public class Hello {
     public static void main(String[] args) {
