@@ -16,7 +16,7 @@ public class Aula03TiposPrimitiviosExercicio {
         Scanner scan = new Scanner(System.in);
         String nome;
         String endereco = "Rua existente nº 695";
-        String data1;
+        String dataRecebimentoSalario;
         double salario;
 
 
@@ -24,12 +24,12 @@ public class Aula03TiposPrimitiviosExercicio {
         nome = scan.nextLine();
 
         System.out.println("Qual a data de hoje: ");
-        data1 = scan.nextLine();
+        dataRecebimentoSalario = scan.nextLine();
 
         System.out.println("Qual seu salário: ");
         salario = scan.nextDouble();
 
 
-        System.out.println("Eu "+nome+ ", morando no "+endereco+ " confirmo que recebi o salário de "+salario+ ",na data "+data1+ ".");
+        System.out.println("Eu "+nome+ ", morando no "+endereco+ " confirmo que recebi o salário de "+salario+ ",na data "+dataRecebimentoSalario+ ".");
     }
 }
