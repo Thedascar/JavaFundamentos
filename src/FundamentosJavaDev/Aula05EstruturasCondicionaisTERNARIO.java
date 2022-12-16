@@ -1,6 +1,6 @@
 package FundamentosJavaDev;
 
-public class Aula07EstruturasCondicionaisTERNARIO {
+public class Aula05EstruturasCondicionaisTERNARIO {
     public static void main(String[] args) {
 
         double salario = 2000;

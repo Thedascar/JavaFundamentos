@@ -1,6 +1,6 @@
 package FundamentosJavaDev;
 
-public class Aula06EstruturasCondicionaisELSEIF {
+public class Aula05EstruturasCondicionaisELSEIF {
     public static void main(String[] args) {
         // idade < 15 infantil
         // idade >= 15 && < 18 juvenil
